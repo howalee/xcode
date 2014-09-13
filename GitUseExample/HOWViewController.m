@@ -14,6 +14,11 @@
 
 @implementation HOWViewController
 
+- (IBAction)clickTheButton:(id)sender
+{
+    NSLog(@"This is a Git tutorial");
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
