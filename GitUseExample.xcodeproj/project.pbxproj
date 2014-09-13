@@ -21,6 +21,7 @@
 		7F84630819C4A76600ABEDF1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8462EA19C4A76600ABEDF1 /* UIKit.framework */; };
 		7F84631019C4A76600ABEDF1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F84630E19C4A76600ABEDF1 /* InfoPlist.strings */; };
 		7F84631219C4A76600ABEDF1 /* GitUseExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F84631119C4A76600ABEDF1 /* GitUseExampleTests.m */; };
+		7F84631D19C4AE3B00ABEDF1 /* HOWMapForItenerary.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F84631C19C4AE3B00ABEDF1 /* HOWMapForItenerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7F84630D19C4A76600ABEDF1 /* GitUseExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitUseExampleTests-Info.plist"; sourceTree = "<group>"; };
 		7F84630F19C4A76600ABEDF1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7F84631119C4A76600ABEDF1 /* GitUseExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUseExampleTests.m; sourceTree = "<group>"; };
+		7F84631B19C4AE3B00ABEDF1 /* HOWMapForItenerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HOWMapForItenerary.h; sourceTree = "<group>"; };
+		7F84631C19C4AE3B00ABEDF1 /* HOWMapForItenerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HOWMapForItenerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				7F8462FC19C4A76600ABEDF1 /* HOWViewController.m */,
 				7F8462FE19C4A76600ABEDF1 /* Images.xcassets */,
 				7F8462ED19C4A76600ABEDF1 /* Supporting Files */,
+				7F84631B19C4AE3B00ABEDF1 /* HOWMapForItenerary.h */,
+				7F84631C19C4AE3B00ABEDF1 /* HOWMapForItenerary.m */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -251,6 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F8462FD19C4A76600ABEDF1 /* HOWViewController.m in Sources */,
+				7F84631D19C4AE3B00ABEDF1 /* HOWMapForItenerary.m in Sources */,
 				7F8462F319C4A76600ABEDF1 /* main.m in Sources */,
 				7F8462F719C4A76600ABEDF1 /* HOWAppDelegate.m in Sources */,
 			);
